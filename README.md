@@ -3,12 +3,12 @@ my profile
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen) ![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social) 
 
 ## 👋 Hello, I'm *Thenuja Vilothmin Ganganath*!
-💻 Developer | 🚀 Undergraduate | 💡 Problem Solver  
+💻 Programmer | 🚀 Undergraduate | 💡 Problem Solver  
 
 
 ## 🔥 About Me  
 - 🌍 I'm from *Sri Lanka*  
-- 🎯 Passionate about *Web Development, python Programming*  
+- 🎯 Passionate about *Machine Learning, python Programming*  
 - 🔭 I’m currently a Student at the *University of Westminster*.
 
 
